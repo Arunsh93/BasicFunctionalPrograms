@@ -1,0 +1,14 @@
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\bin\Debug\netcoreapp3.1\HeadAndTailPercentage.exe
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\bin\Debug\netcoreapp3.1\HeadAndTailPercentage.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\bin\Debug\netcoreapp3.1\HeadAndTailPercentage.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\bin\Debug\netcoreapp3.1\HeadAndTailPercentage.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\bin\Debug\netcoreapp3.1\HeadAndTailPercentage.dll
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\bin\Debug\netcoreapp3.1\HeadAndTailPercentage.pdb
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\obj\Debug\netcoreapp3.1\HeadAndTailPercentage.csproj.AssemblyReference.cache
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\obj\Debug\netcoreapp3.1\HeadAndTailPercentage.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\obj\Debug\netcoreapp3.1\HeadAndTailPercentage.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\obj\Debug\netcoreapp3.1\HeadAndTailPercentage.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\obj\Debug\netcoreapp3.1\HeadAndTailPercentage.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\obj\Debug\netcoreapp3.1\HeadAndTailPercentage.dll
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\obj\Debug\netcoreapp3.1\HeadAndTailPercentage.pdb
+E:\ASP.NET\BasicFunctionalPrograms\HeadAndTailPercentage\obj\Debug\netcoreapp3.1\HeadAndTailPercentage.genruntimeconfig.cache
