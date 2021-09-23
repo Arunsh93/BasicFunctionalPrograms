@@ -1,0 +1,13 @@
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\bin\Debug\netcoreapp3.1\PrimeFactorNumbers.exe
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\bin\Debug\netcoreapp3.1\PrimeFactorNumbers.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\bin\Debug\netcoreapp3.1\PrimeFactorNumbers.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\bin\Debug\netcoreapp3.1\PrimeFactorNumbers.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\bin\Debug\netcoreapp3.1\PrimeFactorNumbers.dll
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\bin\Debug\netcoreapp3.1\PrimeFactorNumbers.pdb
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\obj\Debug\netcoreapp3.1\PrimeFactorNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\obj\Debug\netcoreapp3.1\PrimeFactorNumbers.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\obj\Debug\netcoreapp3.1\PrimeFactorNumbers.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\obj\Debug\netcoreapp3.1\PrimeFactorNumbers.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\obj\Debug\netcoreapp3.1\PrimeFactorNumbers.dll
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\obj\Debug\netcoreapp3.1\PrimeFactorNumbers.pdb
+E:\ASP.NET\BasicFunctionalPrograms\PrimeFactorNumbers\obj\Debug\netcoreapp3.1\PrimeFactorNumbers.genruntimeconfig.cache
