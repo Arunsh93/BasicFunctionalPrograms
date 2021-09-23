@@ -1,0 +1,14 @@
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.exe
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.dll
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\bin\Debug\netcoreapp3.1\HarmonicNumber.pdb
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.dll
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.pdb
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.genruntimeconfig.cache
+E:\ASP.NET\BasicFunctionalPrograms\HarmonicNumber\obj\Debug\netcoreapp3.1\HarmonicNumber.csproj.AssemblyReference.cache
