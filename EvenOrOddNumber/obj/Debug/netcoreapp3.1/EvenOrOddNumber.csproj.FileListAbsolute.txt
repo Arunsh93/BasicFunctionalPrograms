@@ -1,0 +1,13 @@
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\bin\Debug\netcoreapp3.1\EvenOrOddNumber.exe
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\bin\Debug\netcoreapp3.1\EvenOrOddNumber.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\bin\Debug\netcoreapp3.1\EvenOrOddNumber.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\bin\Debug\netcoreapp3.1\EvenOrOddNumber.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\bin\Debug\netcoreapp3.1\EvenOrOddNumber.dll
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\bin\Debug\netcoreapp3.1\EvenOrOddNumber.pdb
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\obj\Debug\netcoreapp3.1\EvenOrOddNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\obj\Debug\netcoreapp3.1\EvenOrOddNumber.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\obj\Debug\netcoreapp3.1\EvenOrOddNumber.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\obj\Debug\netcoreapp3.1\EvenOrOddNumber.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\obj\Debug\netcoreapp3.1\EvenOrOddNumber.dll
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\obj\Debug\netcoreapp3.1\EvenOrOddNumber.pdb
+E:\ASP.NET\BasicFunctionalPrograms\EvenOrOddNumber\obj\Debug\netcoreapp3.1\EvenOrOddNumber.genruntimeconfig.cache
