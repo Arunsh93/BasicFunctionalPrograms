@@ -1,0 +1,14 @@
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\bin\Debug\netcoreapp3.1\SwapOfTwoNumbers.exe
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\bin\Debug\netcoreapp3.1\SwapOfTwoNumbers.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\bin\Debug\netcoreapp3.1\SwapOfTwoNumbers.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\bin\Debug\netcoreapp3.1\SwapOfTwoNumbers.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\bin\Debug\netcoreapp3.1\SwapOfTwoNumbers.dll
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\bin\Debug\netcoreapp3.1\SwapOfTwoNumbers.pdb
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\obj\Debug\netcoreapp3.1\SwapOfTwoNumbers.csproj.AssemblyReference.cache
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\obj\Debug\netcoreapp3.1\SwapOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\obj\Debug\netcoreapp3.1\SwapOfTwoNumbers.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\obj\Debug\netcoreapp3.1\SwapOfTwoNumbers.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\obj\Debug\netcoreapp3.1\SwapOfTwoNumbers.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\obj\Debug\netcoreapp3.1\SwapOfTwoNumbers.dll
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\obj\Debug\netcoreapp3.1\SwapOfTwoNumbers.pdb
+E:\ASP.NET\BasicFunctionalPrograms\SwapOfTwoNumbers\obj\Debug\netcoreapp3.1\SwapOfTwoNumbers.genruntimeconfig.cache
