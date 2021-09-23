@@ -1,0 +1,14 @@
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\bin\Debug\netcoreapp3.1\LargetAmongThree.exe
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\bin\Debug\netcoreapp3.1\LargetAmongThree.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\bin\Debug\netcoreapp3.1\LargetAmongThree.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\bin\Debug\netcoreapp3.1\LargetAmongThree.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\bin\Debug\netcoreapp3.1\LargetAmongThree.dll
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\bin\Debug\netcoreapp3.1\LargetAmongThree.pdb
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\obj\Debug\netcoreapp3.1\LargetAmongThree.csproj.AssemblyReference.cache
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\obj\Debug\netcoreapp3.1\LargetAmongThree.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\obj\Debug\netcoreapp3.1\LargetAmongThree.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\obj\Debug\netcoreapp3.1\LargetAmongThree.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\obj\Debug\netcoreapp3.1\LargetAmongThree.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\obj\Debug\netcoreapp3.1\LargetAmongThree.dll
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\obj\Debug\netcoreapp3.1\LargetAmongThree.pdb
+E:\ASP.NET\BasicFunctionalPrograms\LargetAmongThree\obj\Debug\netcoreapp3.1\LargetAmongThree.genruntimeconfig.cache
