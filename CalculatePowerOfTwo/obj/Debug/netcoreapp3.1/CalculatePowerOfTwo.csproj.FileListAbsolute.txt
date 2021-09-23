@@ -1,0 +1,14 @@
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\bin\Debug\netcoreapp3.1\CalculatePowerOfTwo.exe
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\bin\Debug\netcoreapp3.1\CalculatePowerOfTwo.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\bin\Debug\netcoreapp3.1\CalculatePowerOfTwo.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\bin\Debug\netcoreapp3.1\CalculatePowerOfTwo.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\bin\Debug\netcoreapp3.1\CalculatePowerOfTwo.dll
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\bin\Debug\netcoreapp3.1\CalculatePowerOfTwo.pdb
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\obj\Debug\netcoreapp3.1\CalculatePowerOfTwo.csproj.AssemblyReference.cache
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\obj\Debug\netcoreapp3.1\CalculatePowerOfTwo.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\obj\Debug\netcoreapp3.1\CalculatePowerOfTwo.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\obj\Debug\netcoreapp3.1\CalculatePowerOfTwo.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\obj\Debug\netcoreapp3.1\CalculatePowerOfTwo.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\obj\Debug\netcoreapp3.1\CalculatePowerOfTwo.dll
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\obj\Debug\netcoreapp3.1\CalculatePowerOfTwo.pdb
+E:\ASP.NET\BasicFunctionalPrograms\CalculatePowerOfTwo\obj\Debug\netcoreapp3.1\CalculatePowerOfTwo.genruntimeconfig.cache
