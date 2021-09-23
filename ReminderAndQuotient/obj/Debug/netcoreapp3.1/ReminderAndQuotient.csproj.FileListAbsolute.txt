@@ -1,0 +1,14 @@
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\bin\Debug\netcoreapp3.1\ReminderAndQuotient.exe
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\bin\Debug\netcoreapp3.1\ReminderAndQuotient.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\bin\Debug\netcoreapp3.1\ReminderAndQuotient.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\bin\Debug\netcoreapp3.1\ReminderAndQuotient.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\bin\Debug\netcoreapp3.1\ReminderAndQuotient.dll
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\bin\Debug\netcoreapp3.1\ReminderAndQuotient.pdb
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\obj\Debug\netcoreapp3.1\ReminderAndQuotient.csproj.AssemblyReference.cache
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\obj\Debug\netcoreapp3.1\ReminderAndQuotient.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\obj\Debug\netcoreapp3.1\ReminderAndQuotient.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\obj\Debug\netcoreapp3.1\ReminderAndQuotient.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\obj\Debug\netcoreapp3.1\ReminderAndQuotient.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\obj\Debug\netcoreapp3.1\ReminderAndQuotient.dll
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\obj\Debug\netcoreapp3.1\ReminderAndQuotient.pdb
+E:\ASP.NET\BasicFunctionalPrograms\ReminderAndQuotient\obj\Debug\netcoreapp3.1\ReminderAndQuotient.genruntimeconfig.cache
