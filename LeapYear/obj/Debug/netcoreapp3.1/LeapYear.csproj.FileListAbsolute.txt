@@ -1,0 +1,13 @@
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+E:\ASP.NET\BasicFunctionalPrograms\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache
