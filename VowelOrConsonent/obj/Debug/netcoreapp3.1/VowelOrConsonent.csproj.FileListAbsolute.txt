@@ -1,0 +1,13 @@
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.exe
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.deps.json
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.runtimeconfig.json
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.runtimeconfig.dev.json
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.dll
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\bin\Debug\netcoreapp3.1\VowelOrConsonent.pdb
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.AssemblyInfoInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.AssemblyInfo.cs
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.csproj.CoreCompileInputs.cache
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.dll
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.pdb
+E:\ASP.NET\BasicFunctionalPrograms\VowelOrConsonent\obj\Debug\netcoreapp3.1\VowelOrConsonent.genruntimeconfig.cache
